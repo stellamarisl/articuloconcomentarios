@@ -1,0 +1,20 @@
+h1{
+    font-family: Monserrat;
+    font-size: 100px;
+  }
+  
+  p{
+     font-family: Raleway;
+      color: #3C3C3C;
+  }
+  .italica{
+     font-style: italic;
+  }
+  .negrita{
+    font-weight: bold;
+  }
+  
+  .href {
+      color: #81D4D4;
+      text-decoration: none;
+  }
